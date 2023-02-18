@@ -1,3 +1,7 @@
+/* https://github.com/hilch/mouse-jiggler */
+/* variation of 'Customizable Enclosure' by CanisVolans on Thingiverse: https://www.thingiverse.com/thing:1989417 */
+
+
 /* [Outer Dimensions] */
 //Width of the Box in mm
 outer_width = 50; 	// [0:0.1:500]
