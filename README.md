@@ -8,6 +8,10 @@ The small electronic box is a variation of 'Customizable Enclosure' by CanisVola
 
 You will also need an USB cable, a 1k resistor and a 5 mm LED.
 
+## Install Arduino IDE and digispark libraries
+
+https://startingelectronics.org/tutorials/arduino/digispark/digispark-windows-setup/
+
 
 
 
