@@ -1,5 +1,6 @@
 # mouse-jiggler
-USB - Mouse jiggler to knock out screen-saver
+USB - Mouse jiggler to knock out screen-saver.
+It moves the virtual mouse one pixel every 20 seconds and signals this by LED flashing.
 
 Uses a [digispark microcontroller](http://digistump.com/products/1).
 The Digispark is an Attiny85 based microcontroller development board similar to the Arduino line, only cheaper, smaller, and a bit less powerful.
