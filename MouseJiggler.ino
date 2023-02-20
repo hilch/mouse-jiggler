@@ -44,7 +44,7 @@ void loop() {
       DigiMouse.moveX(1); // one pixel to the right
     }
     else {  // one pixel to the left
-      DigiMouse.moveX(-1); // one pixel to the right
+      DigiMouse.moveX(-1); // one pixel to the left
     }
     direction = !direction;
     for( int n = 0; n < 4; ++n ){
